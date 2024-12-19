@@ -13,6 +13,22 @@ buttons.forEach(function (button){
             body.style.backgroundColor=  e.target.id;
         else if(e.target.id==='grey')
             body.style.backgroundColor= e.target.id;
+        else if(e.target.id==='yellow')
+            body.style.backgroundColor= e.target.id;
+        else if(e.target.id==='aqua')
+            body.style.backgroundColor= e.target.id;
+        else if(e.target.id==='orange')
+            body.style.backgroundColor= e.target.id;
+        else if(e.target.id==='purple')
+            body.style.backgroundColor= e.target.id;
+        else if(e.target.id==='beige')
+            body.style.backgroundColor= e.target.id;
+        else if(e.target.id==='pink')
+            body.style.backgroundColor= e.target.id;
+        else if(e.target.id==='white')
+            body.style.backgroundColor= e.target.id;
+        
+
     });
 });
   
